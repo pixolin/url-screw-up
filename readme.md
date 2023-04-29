@@ -1,4 +1,4 @@
-# Screw-Up
+# URL Screw-Up
 
 Contributors: @pixolin
 Requires at least: 5.2
@@ -8,7 +8,7 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Place an input field to anonymize URLs via shortcode anywhere on your website.
+**Place an input field to anonymize URLs via shortcode anywhere on your website.**
 
 ## Description
 
