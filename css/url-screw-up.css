@@ -1,0 +1,39 @@
+#anonymizer {
+	margin: 10px 0;
+	padding: 20px;
+}
+
+#anonymizer input[type=url] {
+	font-family: ui-monospace,
+             Menlo, Monaco,
+             "Cascadia Mono", "Segoe UI Mono",
+             "Roboto Mono",
+             "Oxygen Mono",
+             "Ubuntu Monospace",
+             "Source Code Pro",
+             "Fira Mono",
+             "Droid Sans Mono",
+             "Courier New", monospace;
+	font-size: 1.1rem;
+	padding: 5px;
+	margin: 10px 0;
+	min-width: 600px;
+	box-shadow: 2px 2px 5px #ddd;
+}
+
+
+#anonymizer input[type=submit],
+#anonymizer button[type=submit] {
+    margin: 5px 0;
+	padding: 5px; /* Increase distance between text and border */
+    font-size: 1rem; /* Increase text size */
+}
+
+#anonurl .error {
+	color: #aaa;
+	font-size: 0.8rem;
+}
+
+#anonurl mark {
+	padding: 5px;
+}
